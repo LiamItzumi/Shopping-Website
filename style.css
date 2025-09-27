@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    height: 100vh;
+}
+.navigation-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    position: sticky;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.navigation-hyperlinks{
+    display: flex;
+    flex-direction: row;
+    gap: 13px;
+    justify-content: center;
+    align-items: center;
+}
+.lgogos{
+    display: flex;
+    flex-direction: row;
+    gap: 13px;
+    justify-content: center;
+    align-items: center;
+}

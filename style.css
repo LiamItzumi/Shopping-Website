@@ -85,7 +85,7 @@ button{
     flex-direction: column;
     align-items: center;
     margin: auto;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.8);
     position: absolute;
 }
 #H2Js93J{
@@ -94,7 +94,22 @@ button{
     text-align: center;
 }
 .bg-color{
+    width: 100vw;
+    height: 500px;
     background-image: url("./assets/raw-meat-pork-steaks-with-spices-herbs-olive-oil_136595-12509.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+}
+h6{
+    color: white;
+    font-family: "Imprima", sans-serif;
+    padding: 35px 0px 0px 0px;
+    margin: 0px 353px 0px 353px;
+    font-size: 20px;
+}
+#y62JH02k{
+    color: white;
+    font-family: "Imprima", sans-serif;
+    margin: 40px 0px 0px 10px;
+    font-size: 43px;
 }

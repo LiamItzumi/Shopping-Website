@@ -4,9 +4,6 @@
     box-sizing: border-box;
     font-family: "quicksand", sans-serif;
 }
-body{
-    height: 100vh;
-}
 .navigation-bar{
     display: flex;
     flex-direction: row;
@@ -255,4 +252,7 @@ h6{
     border-radius: 7px;
     padding: 10px;
     background-color: rgba(200, 193, 193, 0.21);
+}
+a:hover{
+    color: #BD1220;
 }
